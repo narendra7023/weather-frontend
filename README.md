@@ -1,3 +1,11 @@
+# Steps to run the project
+- clone the repository
+- execute the command in the terminal: `npm i`
+- add `.env` file in the root of your directory
+- add the line to `.env` file : `REACT_APP_BACKEND_URL="https://weather-backend-ochre.vercel.app"`
+- Finally, execute the command in the terminal : `npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
