@@ -15,7 +15,7 @@ const Descriptions = ({ weather, units }) => {
       icon: <FaArrowDown />,
       title: "min",
       data: weather.temp_min.toFixed(),
-      unit: tempUnit,
+      unit:tempUnit,
     },
     {
       id: 2,
